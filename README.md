@@ -1,8 +1,8 @@
 <div align="center">
-    <h1>Interstellar V5</h1>
-    <h3>Interstellar is one of the most modern and popular unblocking sites.</h3>
+    <h1>Multiversal V1</h1>
+    <h3>Multiversal is one of the most modern and unpopular unblocking sites.</h3>
     
-### [Join our Discord!](https://discord.gg/interstellar)
+### [Join our Discord!(https://discord.gg/KYXyHfx7G7)
 </div>
 
 > **If you do fork this repo, please give the original repo a star! It helps out alot and only 30% of people who fork give us a star... besides, you know you want to...**
@@ -24,7 +24,7 @@
 You can **NOT** deploy to Netlify, Cloudflare Pages, Github Pages or any other **static** Web Host.
 
 > **Note**
-> Join our [Discord Server](https://discord.gg/interstellar) for more options & tutorials.
+> Join our [Discord Server](https://discord.gg/KYXyHfx7G7) for more options & tutorials.
 
 <a target="_blank" href="https://heroku.com/deploy/?template=https://github.com/interstellarnetwork/interstellar"><img alt="Deploy to Heroku" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg"></a>
 <a target="_blank" href="https://replit.com/github/interstellarnetwork/interstellar"><img alt="Run on Replit" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg"></a>
